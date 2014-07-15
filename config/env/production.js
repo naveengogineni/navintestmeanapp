@@ -8,7 +8,7 @@ module.exports = {
     facebook: {
         clientID: '1452371921688100',
         clientSecret: '4fe108e43136768857c03aafcae1b433',
-        callbackURL: 'http://localhost:3000/auth/facebook/callback'
+        callbackURL: 'http://stark-thicket-3994.herokuapp.com/auth/facebook/callback'
     },
     twitter: {
         clientID: 'CONSUMER_KEY',
@@ -23,7 +23,7 @@ module.exports = {
     google: {
         clientID: '938514532632-5gjceoo8is66j67rd8kb01im3v7rcnia.apps.googleusercontent.com',
         clientSecret: '8ZfDd8Yba-EITasxsEXSjwpZ',
-        callbackURL: 'http://localhost:3001/auth/google/callback'
+        callbackURL: 'http://stark-thicket-3994.herokuapp.com/auth/google/callback'
     },
     linkedin: {
         clientID: 'API_KEY',
