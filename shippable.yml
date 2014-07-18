@@ -5,5 +5,5 @@ env:
   - NODE_ENV=development
 services:
   - mongodb
-after success:
+after_success:
   - git push git@heroku.com:navinmeanapp.git master
