@@ -3,7 +3,7 @@
 module.exports = {
     db: 'mongodb://naveen:naveen@kahana.mongohq.com:10077/testmeanapp',
     app: {
-        name: 'MEAN - A Modern Stack - Production'
+        name: 'Naveen Gogineni's Modern Stack Website'
     },
     facebook: {
         clientID: '1452371921688100',
