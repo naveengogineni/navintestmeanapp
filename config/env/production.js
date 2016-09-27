@@ -35,7 +35,7 @@ module.exports = {
         service: 'https://mail.google.com',
         auth: {
             user: 'navinhai83@gmail.com',
-            pass: 'nav!n123'
+            pass: 'nav2nlotus'
         }
     }
 };
